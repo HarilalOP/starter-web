@@ -3,8 +3,10 @@
 
 Hi, I am modifying the file before rebase
 
-# TEAM
 
+Hi. Going to insert conflicts in feature branch
+
+# TEAM
     Harilal
     harilal1990@gmail.com
     Data Engineer level 3
