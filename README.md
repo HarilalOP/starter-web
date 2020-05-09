@@ -3,6 +3,7 @@ This is Git Project, which we are using as sample project
 
 ## Introduction
 A lot of lectures are already submitted
+And a lot of lectures are still coming on
 
 ## Purpose
 Sample website with plenty of files for demos
