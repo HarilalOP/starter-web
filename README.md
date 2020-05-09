@@ -9,6 +9,7 @@ Sample website with plenty of files for demos
 
 ## GIT Comparison
 Adding Git Comparison lecture
+Adding Git Rebase lecture
 
 ## Contribution
 Fork the repo and raise the pull request
