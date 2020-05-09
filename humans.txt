@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Harilal <twitter>
+    Harilal
+    harilal1990@gmail.com
+    Data Engineer
 
 # THANKS
 
