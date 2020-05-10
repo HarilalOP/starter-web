@@ -12,6 +12,7 @@ Sample website with plenty of files for demos
 Adding Git Comparison lecture
 Adding Git Rebase lecture
 We have done so much work together
+Adding new lectures of stash
 
 ## Contribution
 Fork the repo and raise the pull request
