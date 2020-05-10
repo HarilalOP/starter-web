@@ -3,9 +3,13 @@
 
 Hi, I am modifying the file before rebase
 
+<<<<<<< Updated upstream
 Adding imporant notes in Git stash
 
+=======
+>>>>>>> Stashed changes
 Doing some changes in local
+Adding important notes on git stash
 
 # TEAM
 
