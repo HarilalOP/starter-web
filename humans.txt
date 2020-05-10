@@ -3,11 +3,8 @@
 
 Hi, I am modifying the file before rebase
 
-<<<<<<< Updated upstream
 Adding imporant notes in Git stash
 
-=======
->>>>>>> Stashed changes
 Doing some changes in local
 Adding important notes on git stash
 
@@ -19,7 +16,7 @@ Hi. Going to insert conflicts in feature branch
     Harilal
     harilal1990@gmail.com
     Data Engineer level 3
-    IT Organization
+    AWS solution architect
 
 # THANKS
 

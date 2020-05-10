@@ -1,1 +1,2 @@
 This file is not still tracked by git
+Adding stash new branch
